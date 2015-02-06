@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Code Across 2015 @Seoul"
+keywords:    "Civic Hacking, 시빅해킹, Code for Seoul, 코드포서울, Codeacross, 코드어크로스, Transprancy, 투명성, Codenamu, 코드나무, Hackathon, 해커톤"
+description: "2015년 전 세계 시빅 해커들이 함께 진행하는 코드어크로스 행사가 서울에서 개최됩니다. 전 세계 활동가들과 함께 우리 지역 사회를 위한 코드에 기여해보세요!"
+source_link: "https://github.com/codeforseoul/codeacross.codeforseoul.org"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
@@ -26,6 +26,7 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 
 ### template colors, used site-wide via css ###
 colors:
+  cfs:       '#ED1B24'
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
