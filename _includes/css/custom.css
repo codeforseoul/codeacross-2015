@@ -1,0 +1,7 @@
+#details hr {
+  border-color: {{ site.colors.black }}
+}
+
+#data {
+  color: #666;
+}

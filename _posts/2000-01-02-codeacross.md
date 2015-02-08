@@ -2,7 +2,7 @@
 title: "Code Across"
 bg: blue
 color: white
-fa-icon: check-square-o
+icon: code-across.png
 ---
 
 ## 전 세계 시백해커들과 함께 하는 Code Across 2015
@@ -13,7 +13,7 @@ fa-icon: check-square-o
 
 -------------------------
 
-### 전 세계 CodeAcross 
+### 전 세계 CodeAcross
 -------------------------
 
 
@@ -60,7 +60,7 @@ fa-icon: check-square-o
   <li><a href="http://www.eventbrite.com/e/open-data-hack-sj-tickets-15585511685">산호세, 캘리포니아</a></li>
   <li><a href="http://code4puertorico.org/">산후안, 푸에르토리코</a></li>
   <li><a href="http://codeforseattle.org/seattle-data-day/">시애틀, 워싱턴</a></li>
-  <li class="text-cfs" ><a href="http://www.meetup.com/Code-for-Seoul/events/218901704/" style="color: #ED1B24">서울, 대한민국</a></li>
+  <li class="text-cfs" ><a href="http://www.meetup.com/Code-for-Seoul/events/218901704/" style="color: #ED1B24; font-weight: bold;">서울, 대한민국</a></li>
   <li><a href="https://www.eventbrite.com/e/hack-michiana-presents-codeacross-michiana-2015-tickets-15583263962">사우스밴드, 인디애나</a></li>
   <li><a href="http://www.meetup.com/Open-Data-STL/">세인트루이스, 미주리</a></li>
   <li><a href="https://www.eventbrite.com.au/e/international-open-data-day-sydney-tickets-15462067460">시드니, 호주</a></li>
