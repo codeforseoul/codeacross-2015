@@ -21,7 +21,7 @@ description: "2015년 전 세계 시빅 해커들이 함께 진행하는 코드�
 source_link: "https://github.com/codeforseoul/codeacross.codeforseoul.org"
 favicon:     "img/code-across.png"
 touch_icon:  "img/code-across.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: "UA-59499313-1" ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
