@@ -224,7 +224,7 @@ nav ul li:hover, nav ul li.active {
 .sectiondivider .fa-circle { color: #fff; }
 
 .sectiondivider h5 {
-  font-size:15px;
+  font-size:21px;
   font-weight:700;
   text-transform:uppercase;
   position:absolute;
@@ -235,11 +235,6 @@ nav ul li:hover, nav ul li.active {
   z-index:6;
   width:240px;
 }
-
-.sectiondivider.imaged {
-  text-shadow: 1px 1px 3px #333;
-}
-
 
 .columned {
   -webkit-column-count: 3;
@@ -336,7 +331,7 @@ nav ul li:hover, nav ul li.active {
     margin-left:-100px;
   }
   .sectiondivider img {
-    width:150px;
+    width:180px;
     height:180px;
   }
   .sectiondivider .fa-stack {
