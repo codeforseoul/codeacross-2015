@@ -3,6 +3,7 @@ title: "Code Across"
 bg: blue
 color: white
 icon: code-across.png
+icon-title: false
 ---
 
 ## 전 세계 시빅해커들과 함께 하는 Code Across 2015

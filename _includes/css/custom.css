@@ -9,3 +9,35 @@
 #data {
   color: #666;
 }
+
+button {
+  padding: 15px 21px;
+  font-size: 18px;
+  line-height: 1.33333;
+  border-radius: 6px;
+  color: #FFF;
+  background-color: #5CB85C;
+  border-color: #4CAE4C;
+  display: inline-block;
+  margin-bottom: 0px;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -moz-user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+}
+
+button:hover, button:active, button:focus {
+  color: #FFF;
+  background-color: #449D44;
+  border-color: #398439;
+  text-decoration: none;
+}
+
+.sponsor {
+  width: 400px;
+  margin-bottom: 90px;
+}
