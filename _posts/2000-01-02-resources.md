@@ -7,7 +7,7 @@ color: black
 
 # 기록 문서 Documents
 
-- [전체 문서 All](http://bit.ly/codeacross-2015-seoul-all)
+- [전체 문서 All](https://drive.google.com/open?id=0B1QfS9cr-5snfkcxZVB6OFQxbi1nMW9LVTU5Y20zTFZKNkdRLUlTOFBvdVgxWkd2NnJrNjg&authuser=0)
 - [1팀 team1](http://bit.ly/codeacross-2015-seoul-1)
 - [2팀 team2](http://bit.ly/codeacross-2015-seoul-2)
 - [3팀 team3](http://bit.ly/codeacross-2015-seoul-3)
