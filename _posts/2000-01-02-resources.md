@@ -1,5 +1,5 @@
 ---
-title: "home"
+title: "Resources"
 bg: yellow
 color: black
 ---
