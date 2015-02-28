@@ -41,3 +41,7 @@ button:hover, button:active, button:focus {
   width: 400px;
   margin-bottom: 90px;
 }
+
+#intro li {
+  list-style: none;
+}
