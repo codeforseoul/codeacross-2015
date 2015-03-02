@@ -12,7 +12,7 @@ color: black
 - [2팀 team2](http://bit.ly/codeacross-2015-seoul-2)
 - [3팀 team3](http://bit.ly/codeacross-2015-seoul-3)
 - [4팀 team4](http://bit.ly/codeacross-2015-seoul-4)
-- [5팀 team5](http://bit.ly/codeacross-2015-seoul-5)
+- [5팀 team5](https://docs.google.com/document/d/1-_pjox-9EFKoJ2rRINVtfK951r1sZT7pNoKOQngoMhs/edit?usp=sharing)
 
 # 유용한 자료 Resources
 
